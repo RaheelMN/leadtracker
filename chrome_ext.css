@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: bold;
+    color: rgb(59, 134, 59);
+}
+
+h1{
+    color: goldenrod;
+}
+
+#message{
+    font-style: italic;
+}
+
+input[type="text"]{
+    width: 100%;
+    padding: 5px 10px;
+    /* border: none; */
+    box-sizing: border-box;
+}
+button{
+    background-color: #527e32;
+    color: white;
+    padding: 8px 25px;
+    border-radius: 3px;
+    border: none;
+    font-size: 16px;
+    margin: 5px 0px;
+    min-width:400px;
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+    margin: 10px;
+}
+
+li{
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+    padding: 3px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+div{
+    font-size: 18px;
+
+}

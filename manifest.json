@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "leads Tracker",
+    "description": "Keep track of urls",
+    "permissions": [
+        "activeTab", "tabs"
+      ],
+    "action": {
+        "default_popup":"chrome_ext.html",
+        "default_icon":"icon.png"
+    }
+}
